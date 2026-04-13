@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Verdant
+
+**Propiedad de APV Labs** - [soporteapvlabs@gmail.com](mailto:soporteapvlabs@gmail.com)
+
+Aplicación React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
